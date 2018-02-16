@@ -93,6 +93,8 @@ rec {
           adal
           datadog
           digital-ocean
+          sqlalchemy
+          pymysqlsa
         ];
 
       # For "nix-build --run-env".
